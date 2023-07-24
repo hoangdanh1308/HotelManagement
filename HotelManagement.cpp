@@ -5,7 +5,7 @@ HotelManagement::HotelManagement(){
     int keyMode = 0;
     int keyLoop = 1;
     do{
-        cout<<"Mode:\n1.Manager\n2.Staff\n3.Exit\n";
+        cout<<"Mode:\n1.Manager\n2.Staff\n3.Exit\n"; //danh
         cin>>keyMode;
         switch (keyMode)
         {
